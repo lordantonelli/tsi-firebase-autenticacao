@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808751284687",
+    "project_id": "tsi---autenticacao",
+    "storage_bucket": "tsi---autenticacao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808751284687:android:ac7ec95ceeb22771f352ba",
+        "android_client_info": {
+          "package_name": "com.example.tsi.autenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808751284687-tr4e14c07kbvj1u8aejng5ejbrbko4n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tsi.autenticacao",
+            "certificate_hash": "10c8493851a3798cb5c9a7b9e620a08bed25224d"
+          }
+        },
+        {
+          "client_id": "808751284687-tcf0naip0b3dr9frakdt97kect4iudpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuv9boATOhvpIabNRtbVqBMBJvonoOQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808751284687-tcf0naip0b3dr9frakdt97kect4iudpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
